@@ -1,2 +1,2 @@
-# React-portfolio
+# Tabs
 Created with CodeSandbox
